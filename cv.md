@@ -28,7 +28,7 @@ alert( counter1() ); // 1
 alert( counter2() ); // 0 (независимо)
 ```
 
-vladilen minin - course js2021 , vue js 3
+vladilen minin - course js2021 , vue js 3, ulbi_tv
 
 bsuir and google
 
