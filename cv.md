@@ -1,18 +1,18 @@
-## Nazar Rusetskiy
+1 ## Nazar Rusetskiy
 
-*Contacts*
+2 *Contacts*
 
 * email: *rusetskiy2788@maik.ru*
 * phone +375257879376
 
 ---
 
-I'm studening at BSUIR on a 3 course at ASOI. I want work in your company
+3 I'm studening at BSUIR on a 3 course at ASOI. I want work in your company
 
-* My skills : JS ,css ,html ,sql , vue.js basic .
+4 * My skills : JS ,css ,html ,sql , vue.js basic .
 * My english at A2+
 
-function makeCounter() {
+5 function makeCounter() {
   let count = 0;
   return function() {
     return count++;
@@ -28,8 +28,8 @@ alert( counter1() ); // 1
 alert( counter2() ); // 0 (независимо)
 ```
 
-vladilen minin - course js2021 , vue js 3, ulbi_tv
+6 vladilen minin - course js2021 , vue js 3, ulbi_tv
 
-bsuir and google
+7  bsuir and google
 
-english about A2+
+8 english about A2+
