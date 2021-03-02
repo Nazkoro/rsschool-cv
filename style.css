@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  margin-left: 300px;
+}
+
+.body {
+  height: 100vh;
+  background-color: #ccc;
+}
+.photo {
+  width: 50%;
+  right: 0;
+  top: 100px;
+  position: absolute;
+}
+
+.main {
+  left: 0;
+  width: 50%;
+  position: relative;
+  margin: auto;
+}
